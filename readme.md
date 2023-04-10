@@ -55,17 +55,4 @@ Now you should be able to use the passgen alias to run the password_generator sc
 ## 🚀 About Me
 I'm a passionate about solving problems and writing interesting codes.Introvert and a Jesus believer. Follow me for more interesting projects. 
 
-➡️ Enter the desired password length: 15
-🚏 Using default algorithm: SHA-256
--------------------------------------------------------------------
-Length              |Algorithm                     |Hash
--------------------------------------------------------------------
-15                  |SHA-256                       |baf80511327c50d
-                    |                              |b54c617c5860c6d
-                    |                              |4512b7102b139de
-                    |                              |7ab654605b441a5
--------------------------------------------------------------------
-✅🔐Password Generated
--------------------------------------------------------------------
-]z_H&&8"XSaNjM]
--------------------------------------------------------------------
+<img width="519" alt="Screenshot 2023-04-10 at 16 21 03" src="https://user-images.githubusercontent.com/7631871/230919953-b39bacc4-2d77-4921-a623-36edf209e02b.png">
