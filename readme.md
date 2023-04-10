@@ -55,4 +55,6 @@ Now you should be able to use the passgen alias to run the password_generator sc
 ## 🚀 About Me
 I'm a passionate about solving problems and writing interesting codes.Introvert and a Jesus believer. Follow me for more interesting projects. 
 
+## Output in the CLI:
+
 <img width="519" alt="Screenshot 2023-04-10 at 16 21 03" src="https://user-images.githubusercontent.com/7631871/230919953-b39bacc4-2d77-4921-a623-36edf209e02b.png">
